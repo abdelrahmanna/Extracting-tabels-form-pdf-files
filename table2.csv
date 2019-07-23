@@ -1,0 +1,27 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13
+0,,,,,,,,,SINGLE SEAT CONSTITUENCIES,,,,DOUBLE SEAT CONSTITUENCIES,
+1,,,,,,,,,(Number of seats),,,,(Number of seats),
+2,,,,"Names of States/                       
+Union Territory","Number of 
+Contituencie
+s",Gen,SC,ST,Total,Gen,SC,ST,Total,Total seats
+3,,,,States,,,,,,,,,,
+4,1,,,Andhra Pradesh,35,27,,0,27,8,6,2,16,43
+5,2,,,Assam,10,7,,1,8,2,1,1,4,12
+6,3,,,Bihar,45,33,,4,37,8,7,1,16,53
+7,4,,,Bombay,58,46,,4,50,8,7,1,16,66
+8,5,,,Kerala,16,14,,0,14,2,2,,4,18
+9,6,,,Madhya Pradesh,27,15,,3,18,9,5,4,18,36
+10,7,,,Madras,34,27,,0,27,7,7,,14,41
+11,8,,,Mysore,23,20,,0,20,3,3,,6,26
+12,9,,,Orissa,14,6,,2,8,6,4,2,12,20
+13,,,,10 Punjab,17,12,,0,12,5,5,,10,22
+14,,,,11 Rajasthan,18,13,,1,14,4,3,1,8,22
+15,,,,12 Uttar Pradesh,68,50,,0,50,18,18,,36,86
+16,,,,13 West Bengal,28,20,,0,20,8,6,2,16,36
+17,,,,Union Territory,,,,,,,,,,
+18,,,,14 Delhi,4,3,,0,3,1,1,,2,5
+19,,,,15 Himachal Pradesh,3,2,,0,2,1,1,,2,4
+20,,,,16 Manipur,2,1,,1,2,0,,,0,2
+21,17,,,Tripura,1,,,,,1,,1,2,2
+22,,,,,403,296,0,16,312,91,76,15,182,494
